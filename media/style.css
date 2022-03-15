@@ -51,7 +51,8 @@ body {
 	border-left: 1px solid #666;
 	margin: 0 auto;
 	margin-left:160px;
-	min-height: 600;
+	min-height: 600px;
+
 }
 
 #footer { 
